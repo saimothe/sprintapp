@@ -1,0 +1,5 @@
+development:
+  adapter: mysql
+  database: sprint_development
+  host: localhost
+
